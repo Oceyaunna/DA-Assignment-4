@@ -1,5 +1,5 @@
 Dataset
-I'll be using this dataset, derived from studies in the Human Microbiome Project.
+I'm using the Video Game dataset from KAGGLE https://www.kaggle.com/code/amalsalilan/uncovering-hidden-trends-in-the-video-game-industr/data
 
 Business Issue
-I'd like to explore the dataset to understand the abundance and function of various microbial strains across sampled body sites.
+I want to explore the popularity of anime based on genres and run time.
